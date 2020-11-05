@@ -9,9 +9,9 @@ void main()
 
   };
 
-  /* map1.keys return the tuple of keys of the map */
   print(map1);
   print("Shruti's About");
+   /* map1.keys return the tuple of keys of the map */
   print(map1.keys);  
 }
 
